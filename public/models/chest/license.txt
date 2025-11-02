@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pink Chest
+* source:	https://sketchfab.com/3d-models/pink-chest-2f311462ec7347baa03644dac95df1c4
+* author:	Milionna (https://sketchfab.com/milionna)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pink Chest" (https://sketchfab.com/3d-models/pink-chest-2f311462ec7347baa03644dac95df1c4) by Milionna (https://sketchfab.com/milionna) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
